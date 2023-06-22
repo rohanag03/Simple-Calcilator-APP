@@ -1,4 +1,4 @@
-# Simple-Calcilator-APP
+# Simple-Calculator-APP
 
 This is a simple calculator app with the basic functionalities.
 
